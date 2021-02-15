@@ -1,4 +1,4 @@
-<h2> 👋 Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert! 👋</h2>
+<h2> 👋 Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdbert! 👋</h2>
 
 &#x2600; Biochemist working in (Glyco-)Proteomics - &#x1F318; Tabletop roleplayer creating custom scripted character sheets
 
