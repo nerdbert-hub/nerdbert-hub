@@ -7,17 +7,18 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=appveyor&logo=Discord&logoColor=white)](Nerdbert#8047)
 
 
-
 #### 🌱 Things I am currently working on: 
-- Finish my PhD Thesis on 'The O-mannosyl glycoproteome of S.cerevisiae'  
-- Learning everything related programming to make my life (science) easier.
+- &#x2600; Finish my PhD Thesis on 'The O-mannosyl glycoproteome of S.cerevisiae'  
+- &#x2600; Learning everything related to programming to make my life (science) easier.
+- &#x1F318; Creating custom scripted PDF character sheets for World of Darkness 5.Edition and Cyberpunk Red
+- &#x1F318; Creating a web-based character editor
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Focusing on one project at a time
 
 
-#### 💻 Stuff that I use:
+#### 💻 Stuff I am regular working with:
 - 💬 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)
