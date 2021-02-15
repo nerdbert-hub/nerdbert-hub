@@ -5,9 +5,10 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_Nerdbert_)
+<!--
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/DividedState)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](Nerdbert#8047)
-
+-->
 
 #### 🌱 Things I am currently working on: 
 - &#x2600; Finish my PhD Thesis on 'The O-mannosyl glycoproteome of S.cerevisiae'  
