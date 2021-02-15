@@ -1,4 +1,6 @@
-### 👋 Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert! 👋
+<h2> 👋 Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert! 👋</h2>
+
+&#x2600; Biochemist working in (Glyco-)Proteomics - &#x1F318; Tabletop roleplayer creating custom scripted character sheets
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
