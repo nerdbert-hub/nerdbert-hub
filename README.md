@@ -1,5 +1,4 @@
-### Hi there 👋 
-### Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert!
+### 👋 Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert! 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
@@ -28,6 +27,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=for-the-badge&logo=angular)
 - 🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
