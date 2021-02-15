@@ -2,10 +2,10 @@
 ### Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=appveyor&logo=Twitter&logoColor=white)](https://twitter.com/_Nerdbert_)
-[![Reddit](https://img.shields.io/badge/-Reddit-red?style=for-the-badge&logo=appveyor&logo=Reddit&logoColor=white)](https://www.reddit.com/user/DividedState)
-[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=appveyor&logo=Discord&logoColor=white)](Nerdbert#8047)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=appveyor&logo=Twitter&logoColor=white)](https://twitter.com/_Nerdbert_)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=appveyor&logo=Reddit&logoColor=white)](https://www.reddit.com/user/DividedState)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=appveyor&logo=Discord&logoColor=white)](Nerdbert#8047)
 
 
 
