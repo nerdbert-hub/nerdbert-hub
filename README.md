@@ -1,11 +1,11 @@
 ### Hi there 👋 
 ### Welcome to the GitHub Page of Patrick Neubert. Friends call me Nerdert!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_Nerdbert_)
-[![Reddit](https://img.shields.io/badge/-Reddit-red?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/DividedState)
-[![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](Nerdbert#8047)
+[![Github](https://img.shields.io/badge/-Github-000?style=?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/nerdbert-hub)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-neubert/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=?style=for-the-badge&logo=appveyor&logo=Twitter&logoColor=white)](https://twitter.com/_Nerdbert_)
+[![Reddit](https://img.shields.io/badge/-Reddit-red?style=?style=for-the-badge&logo=appveyor&logo=Reddit&logoColor=white)](https://www.reddit.com/user/DividedState)
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=?style=for-the-badge&logo=appveyor&logo=Discord&logoColor=white)](Nerdbert#8047)
 
 
 
@@ -17,7 +17,9 @@
 - Waking up earlier to make good use of the day
 - Focusing on one project at a time
 
- 💻 &nbsp;
+
+#### 💻 Stuff that I use:
+- 💬 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
