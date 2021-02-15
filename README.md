@@ -40,7 +40,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=for-the-badget&logo=rstudio)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333??style=for-the-badge&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=for-the-badge&logo=adobe-indesign)
 
 <!--
