@@ -21,7 +21,7 @@
 
 
 #### 💻 Stuff I've been working with:
-- 📁&nbsp;
+- 📁 &nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
 - 🖥 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
