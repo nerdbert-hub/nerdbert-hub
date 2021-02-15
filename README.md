@@ -37,7 +37,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=for-the-badget&logo=rstudio)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=for-the-badge&logo=rstudio)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
