@@ -26,11 +26,6 @@
 - Keeping my home & work clean to clear out my mind from distraction
 - Focusing on one project at a time
 - Writing TTRPG campaigns, homebrew and fan content
-
-#### :muscle: Things I am challenging myself with:
-- Keeping my home & work clean to clear out my mind from distraction
-- Focusing on one project at a time
-- Writing TTRPG campaigns, homebrew and fan content
 - Writing my own ChoiceScript game
 - Building a second brain with a much more disciplined Obsidian notetaking
 
